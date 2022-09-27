@@ -1,0 +1,10 @@
+.sign-in-container,.sign-up-container{
+    justify-content: space-between;
+    text-align: center;
+    border: 50px;
+    border-style: double;
+    border-width: 2px;
+    border-color: black;
+    padding: 30px;
+    margin: 30px;
+}
